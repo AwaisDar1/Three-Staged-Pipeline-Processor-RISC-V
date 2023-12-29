@@ -69,7 +69,6 @@ module controller
                 // mux Ctrls
                 sel_opr_a = 1'b0;
                 sel_opr_b = 1'b1;
-                // sel_pc    = 1'b0;
                 sel_wb    = 2'b00;
 
                 // imm ctrls
