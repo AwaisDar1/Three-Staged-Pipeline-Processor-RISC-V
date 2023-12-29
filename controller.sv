@@ -1,4 +1,4 @@
-module Ctrller
+module controller
 (
     input  logic [6:0]    opcode,
     input  logic [6:0]     func7,
